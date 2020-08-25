@@ -1,1 +1,2 @@
 # my_poor_frontend_code
+#responsive_smartphone_laptop
